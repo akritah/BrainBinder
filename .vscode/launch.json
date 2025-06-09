@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AssignmentManager",
+            "request": "launch",
+            "mainClass": "AssignmentManager",
+            "projectName": "java project2025_d85d5154"
+        }
+    ]
+}
